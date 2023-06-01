@@ -1,0 +1,3 @@
+﻿  semester_project.cpp
+C:\Users\festerDuck\source\repos\semester_project\semester_project\semester_project.cpp(657): warning C4715: 'check_password': not all control paths return a value
+  semester_project.vcxproj -> C:\Users\festerDuck\source\repos\semester_project\x64\Debug\semester_project.exe
